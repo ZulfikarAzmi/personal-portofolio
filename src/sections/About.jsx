@@ -1,5 +1,5 @@
 import React from "react";
-import myPhoto from "../assets/hackathon1.jpg";
+import myPhoto from "../assets/about.jpg";
 
 const About = () => {
   return (
@@ -47,13 +47,13 @@ const About = () => {
 
         <div className="space-y-4">
           <p className="text-lg text-gray-300 leading-relaxed">
-            I’m a vocational high school graduate majoring in Software
-            Engineering (RPL). With a strong foundation in web development, I
-            enjoy building clean, responsive, and user-friendly applications.
-            I’m always excited to learn new things, collaborate with others, and
-            grow through real-world experiences. Currently, I’m looking for
-            opportunities to contribute, learn from industry professionals, and
-            work on meaningful projects. Let’s build something cool together!
+            I’m an Informatics Engineering student with a strong foundation in
+            web development, especially in building clean, responsive, and
+            user-friendly applications. I enjoy
+            learning new technologies, collaborating with others, and
+            contributing to real-world projects. I'm currently seeking
+            opportunities to grow, work with professionals, and take part in
+            meaningful development environments.
           </p>
         </div>
       </div>
