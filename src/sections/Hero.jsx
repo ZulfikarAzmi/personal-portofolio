@@ -22,9 +22,9 @@ const Hero = () => {
           </div>
 
           <p className="text-lg md:text-xl text-gray-300 max-w-xl">
-            I’m a vocational high school graduate majoring in Software
-            Engineering (RPL), currently seeking opportunities to collaborate
-            and grow as a Junior Web Developer.
+            I’m an Informatics Engineering student passionate about web
+            development, currently looking for opportunities to learn,
+            collaborate, and grow as a Junior Web Developer.
           </p>
 
           <div className="flex justify-center md:justify-start space-x-4">
