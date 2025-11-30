@@ -28,14 +28,26 @@ const Hero = () => {
           </p>
 
           <div className="flex justify-center md:justify-start space-x-4">
+            {/* CV Indonesia */}
             <a
-              href="/CV_Zulfikar_Azmi.pdf"
+              href="/Zulfikar_Azmi_CV_ID.pdf"
               download
-              className="inline-block px-6 py-3 rounded-xl bg-gradient-to-r from-cyan-500 to-blue-500 
-             text-white font-medium shadow-lg hover:shadow-xl 
-             transition duration-300 transform hover:scale-105"
+              className="bg-cyan-500 text-white px-8 py-3 rounded-full 
+               font-semibold shadow-lg hover:bg-cyan-600 
+               transition transform hover:scale-105"
             >
-              Download CV
+              Download CV (ID)
+            </a>
+
+            {/* CV English */}
+            <a
+              href="/Zulfikar_Azmi_CV_EN.pdf"
+              download
+              className="bg-cyan-500 text-white px-8 py-3 rounded-full 
+               font-semibold shadow-lg hover:bg-cyan-600 
+               transition transform hover:scale-105"
+            >
+              Download CV (EN)
             </a>
           </div>
         </div>

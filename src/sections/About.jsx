@@ -40,21 +40,22 @@ const About = () => {
       {/* Bagian Deskripsi */}
       <div className="w-full lg:w-1/2 text-center lg:text-left space-y-6">
         <div>
-          <h2
-            className="text-4xl lg:text-5xl font-bold text-white"
-          >
+          <h2 className="text-4xl lg:text-5xl font-bold text-white">
             About <span className="text-cyan-400">Me</span>
           </h2>
         </div>
 
         <div className="space-y-4">
           <p className="text-lg text-gray-300 leading-relaxed">
-             I’m a vocational high school graduate majoring in Software Engineering (RPL). With a strong foundation in web development, I enjoy building clean, responsive, and user-friendly applications. I’m always excited to learn new things, collaborate with others, and grow through real-world experiences. Currently, I’m looking for opportunities to contribute, learn from industry professionals, and work on meaningful projects. Let’s build something cool together! 
+            I’m a vocational high school graduate majoring in Software
+            Engineering (RPL). With a strong foundation in web development, I
+            enjoy building clean, responsive, and user-friendly applications.
+            I’m always excited to learn new things, collaborate with others, and
+            grow through real-world experiences. Currently, I’m looking for
+            opportunities to contribute, learn from industry professionals, and
+            work on meaningful projects. Let’s build something cool together!
           </p>
         </div>
-
-       
-        
       </div>
     </section>
   );
